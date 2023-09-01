@@ -31,9 +31,9 @@ minima:
     # - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
     # - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
     # - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-    - { platform: github,         NoahChaffin123.github.io: "https://github.com/jekyll/minima" }
+    - { platform: github,         NoahChaffin123: "NoahChaffin123.github.io" }
     # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-    - { platform: instagram,      noahchaffin2003: "https://www.instagram.com/jekyll" }
+    - { platform: instagram,      noahchaffin2003: "https://www.instagram.com/noahchaffin2003/" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
   #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
