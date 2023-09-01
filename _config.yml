@@ -6,7 +6,7 @@ author: Noah Chaffin
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  My name is Noah Chaffin, and I am a computer science and mathematics double major at Hendrix College. Feel free to go to my social media
+  My name is Noah Chaffin, and I am a Computer Science and Mathematics double major at Hendrix College. Feel free to go to my social media
   or to email me for further questions.
 # Build settings
 
