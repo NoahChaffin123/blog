@@ -6,8 +6,7 @@ email: ChaffinNC@hendrix.edu
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  My name is Noah Chaffin, and I am a Computer Science and Mathematics double major at Hendrix College. Feel free to go to my social media
-  or to email me for further questions.
+Welcome to my blog. I will mainly post about computer science, or talk about any project I am working on outside of class.
 # Build settings
 
 theme: minima
