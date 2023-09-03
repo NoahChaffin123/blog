@@ -1,6 +1,5 @@
 ---
-layout: base 
-author: Noah Chaffin
+layout: base
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -24,9 +23,9 @@ author: Noah Chaffin
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
-      {%- endif -%}</p> 
-      <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-  </header>
+      {%- endif -%}</p>
+  </header> 
+  <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
