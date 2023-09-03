@@ -6,7 +6,7 @@ email: ChaffinNC@hendrix.edu
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This is my blog. My posts will mainly revolve with my academic and career projects.
+  This is my blog. My posts will mainly revolve around my academic and career projects, assignments, and achievements.
 
 # Build settings
 
