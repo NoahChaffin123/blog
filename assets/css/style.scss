@@ -4,4 +4,15 @@
 
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+  "minima/initialize"; 
+
+  
+  
+  h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: pink; 
+  } 
+  p {
+    color: purple;   
+    font-family: 'Times New Roman', Times, serif;
+  } 
