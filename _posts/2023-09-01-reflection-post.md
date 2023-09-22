@@ -13,7 +13,7 @@ While styling a webpage sounds like a simple task, there were many challenges th
 - Creativity 
     - <span style="color:orange">It took some time, trial and error, and research to figure out what I wanted to do, and if it was even possible for me to do it</span>.  
 
-     ![alt text](https://th.bing.com/th/id/OIP.L6pG1uFSa3I7CDXITpb4ugHaHa?w=177&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7 "Code")
+     ![alt text](https://th.bing.com/th/id/OIP.L6pG1uFSa3I7CDXITpb4ugHaHa?w=177&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7 "Creativity")
     
 - General Understanding of the Coding Languages being Used. 
     - <span style="color:orange">Of course, all of these coding languages are new to me. So, I had to spend a great amount of time
