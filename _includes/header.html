@@ -1,14 +1,14 @@
-<header class="site-header">
+<header id ="the-header"class="site-header">
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> 
-    <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
+    <link rel="stylesheet" href="\assets\style.scss">
 
     {%- if titles_size > 0 -%}
-      <nav id="navigation" class="site-nav">
+      <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" /> 
         <a href="https://hendrix-cs.github.io/csci340/">CSCI 340 Databases and Websystems</a>
         <label for="nav-trigger">
