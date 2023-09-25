@@ -1,7 +1,8 @@
-title: Noah's Blog
+title: Noah's Blog 
 author: Noah Chaffin
 name: NoahChaffin123
-email: ChaffinNC@hendrix.edu
+email: ChaffinNC@hendrix.edu 
+
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -48,6 +49,7 @@ minima:
 #
 # header_pages:
 #   - about.md
+<link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
 
 # Set to `true` to show excerpts on the homepage.
 #
