@@ -1,12 +1,12 @@
-  title: Noah's Blog    
-  author: Noah Chaffin
-name: Noah Chaffin
+title: Noah's Blog
+author: Noah Chaffin
+name: NoahChaffin123
 email: ChaffinNC@hendrix.edu
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This is my blog. My posts will mainly revolve around my academic and career projects, assignments, and achievements.
+  My name is Noah Chaffin, and I am Computer Science and Mathematics double-major at Hendrix College.
 
 # Build settings
 
@@ -31,13 +31,13 @@ minima:
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-    - { platform: github,         user_url: "https://github.com/NoahChaffin123/NoahChaffin123/jekyll" }
+    - { platform: github,         user_url: "https://github.com/jekyll/minima" }
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-    - { platform: instagram,      user_url: "https://www.instagram.com/noahchaffin123/jekyll" }
+    - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
-    # - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
-    # - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
+  #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
+  #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
