@@ -15,6 +15,6 @@ The overall link between my entities says this: A customer account (which contai
 
 
 <!-- <img src="/Grocery_Store_Data_Model-2023-09-25_22-02.png"> -->
-![alt text](/Grocery_Store_Data_Model-2023-09-25_22-02.png)
+![alt text](/Grocery_Store_Data_Model-2023-09-25_22-02.png "Schema")
 
 In my schema, I have four tables: customer, order, ordering, and item. For the most part, the columns are basic things that are copied from the ER diagram, such as phone numbers or the name of an account owner. The primary keys, however, were a different story. In my customer, order, and item table, the primary key was the ID. This made it where the "order" table could successfully link the items and customer together using their respective IDs. The "ordering" table allows a customer to choose a specific amount of an item and whether or not they want a substistute item if the item they want is missing.
