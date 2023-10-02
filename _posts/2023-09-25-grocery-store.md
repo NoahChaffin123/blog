@@ -1,13 +1,15 @@
 ---
 layout: post
 author: Noah Chaffin 
-category: misc
+category: jekyll-update
+image: /assets/images/grocery_hope.png
 ---
 
 In this post, I will outline my ER diagram and schema for an online grocery shopping web application.  
 
 
-<img src="/grocery_hope.png"> 
+![]({{ page.image }})
+<!-- <-- <img src="/grocery_hope.png">  --> -->
 
 For my ER diagram, my goal was to visualize how the entities were going to interact with each other, and how they interacted with each other. Each entity had a multitude of attributes, but there was one of them had: an ID. I included this into the ER diagram because I knew this would be important in my schema. 
 
