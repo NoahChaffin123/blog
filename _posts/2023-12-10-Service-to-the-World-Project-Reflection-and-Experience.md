@@ -7,7 +7,7 @@ category: misc
 
 **Skills and Talents in Social Change Work:**
 
-Our collaborative effort to construct a functional seating chart for Hendrix College's Commencement required a fusion of various skills and talents. The ability to navigate web development tools, effective communication, and attention to detail emerged as paramount in our social change work. It became evident that the amalgamation of our distinct strengths—Colten's coding prowess, Ian's organizational finesse, and my knack for problem-solving—formed the backbone of our success. This experience illuminated the importance of recognizing and leveraging individual talents within a team setting, reinforcing the idea that collective skills propel social change.
+Our collaborative effort to construct a functional seating chart for Hendrix College's Commencement required a fusion of various skills and talents. The ability to navigate web development tools, effective communication, and attention to detail emerged as paramount in our social change work. This experience illuminated the importance of recognizing and leveraging individual talents within a team setting, reinforcing the idea that collective skills propel social change.
 
 **Effectiveness of Social Change Approaches:**
 
