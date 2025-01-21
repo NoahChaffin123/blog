@@ -1,16 +1,19 @@
 ---
 layout: post
 author: Noah Chaffin 
-category: jekyll-update
-image: /assets/images/grocery_hope.png 
-image2: /assets/images/Grocery_Store_Data_Model-2023-09-25_22-02.png
+category: jekyll-update 
+image: /assets/images/grocery_hope.png
 ---
 
 In this post, I will outline my ER diagram and schema for an online grocery shopping web application.  
 
 
-![]({{ page.image | relative_url}})
-<!-- <-- <img src="/grocery_hope.png">  --> -->
+<!-- <img src="/assets/images/grocery_hope.png">    -->
+
+![alt]({{ page.image }})
+
+
+<!-- INside curly brackets, type in URL, need some ruby translation. Relative URL liquid Jekyll -->
 
 For my ER diagram, my goal was to visualize how the entities were going to interact with each other, and how they interacted with each other. Each entity had a multitude of attributes, but there was one of them had: an ID. I included this into the ER diagram because I knew this would be important in my schema. 
 
@@ -18,6 +21,6 @@ The overall link between my entities says this: A customer account (which contai
 
 
 <!-- <img src="/Grocery_Store_Data_Model-2023-09-25_22-02.png"> -->
-![]({{ page.image2 | relative_url}})
+![alt text](/assets/images/Grocery_Store_Data_Model-2023-09-25_22-02.png "Schema")
 
-In my schema, I have four tables: customer, order, ordering, and item. For the most part, the columns are basic things that are copied from the ER diagram, such as phone numbers or the name of an account owner. The primary keys, however, were a different story. In my customer, order, and item table, the primary key was the ID. This made it where the "order" table could successfully link the items and customer together using their respective IDs. The "ordering" table allows a customer to choose a specific amount of an item and whether or not they want a substistute item if the item they want is missing.
+In my schema, I have four tables: customer, order, ordering, and item. For the most part, the columns are basic things that are copied from the ER diagram, such as phone numbers or the name of an account owner. The primary keys, however, were a different story. In my customer, order, and item table, the primary key was the ID. This made it where the "order" table could successfully link the items and customer together using their respective IDs. The "ordering" table allows a customer to choose a specific amount of an item and whether or not they want a substistute item if the item they want is missing
