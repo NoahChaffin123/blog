@@ -10,7 +10,7 @@ In this post, I will outline my ER diagram and schema for an online grocery shop
 
 <!-- <img src="/assets/images/grocery_hope.png">    -->
 
-![Testing](/assets/images/grocery_flow.png "ER")
+![Testing](https://media.istockphoto.com/id/2177078512/photo/the-kitten-stands-peacefully-behind-the-inscription-of-the-numbers-of-the-upcoming-new-year.webp?a=1&b=1&s=612x612&w=0&k=20&c=qJ-nYE1rpSG2vbTRZrK7Zl9dltsUseFqsTKCCS_UZ0w=)
 
 
 <!-- INside curly brackets, type in URL, need some ruby translation. Relative URL liquid Jekyll -->
